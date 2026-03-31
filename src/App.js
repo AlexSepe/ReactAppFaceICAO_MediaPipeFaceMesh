@@ -297,7 +297,7 @@ function App() {
 
   return (
     <div className={`app-container theme-${theme}`}>
-      <h1>ICAO Face Engine <small>(MediaPipe Refactored)</small></h1>
+      <h1>ICAO Face Engine <small>(Google MediaPipe Face Mesh)</small></h1>
 
       <div className="main-layout" style={{ display: 'flex', gap: '20px', padding: '20px' }}>
         
